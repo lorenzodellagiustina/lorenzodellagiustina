@@ -12,7 +12,7 @@
 - 🏎️ Firmware developer for [UniUd E-Racing Team](https://github.com/uniuderacing)
   
 
-- 🦀 I’m currently learning C++ and Rust
+- 🦀 Full time rustacean
   
 
 <br/>  
@@ -21,12 +21,12 @@
 ## My Skill Set
 ### Frequently used
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,git,github,docker,linux,cpp,cmake,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=rust,git,github,docker,linux" />
 </p>
 
 ### Used in the past
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,tensorflow" />
 </p>
 <!--
 <div align="center">  
