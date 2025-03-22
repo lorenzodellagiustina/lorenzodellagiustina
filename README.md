@@ -6,7 +6,7 @@
 ### <div align="center">I'm Lorenzo, a CS Student 👨‍💻</div>  
   
 
-- 📖 Computer Science bachelor student  
+- 📖 Computer Science master student  
   
 
 - 🏎️ Firmware developer for [UniUd E-Racing Team](https://github.com/uniuderacing)
