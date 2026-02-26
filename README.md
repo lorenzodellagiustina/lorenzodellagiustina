@@ -11,16 +11,17 @@
 
 <br/>  
 
-<!--### Frequently used
+<!--### Frequently used-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=rust,git,github,docker,linux,cpp,cmake" />
 </p>
 
-### Used in the past-->
+<!--
+### Used in the past
 <p>
   <img src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,tensorflow" />
 </p>
-<!--
+
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -52,7 +53,7 @@
 
 <br/>  
 
-<div align="center">
+<div>
 <img src="https://komarev.com/ghpvc/?username=lorenzodellagiustina&&style=flat-square" align="center" />
 </div>
 
