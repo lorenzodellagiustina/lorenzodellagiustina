@@ -12,7 +12,7 @@
 <br/>  
 
 <!--### Frequently used-->
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=rust,git,github,docker,linux,cpp,cmake" />
 </p>
 
@@ -40,9 +40,6 @@
 <br/>  
 
 <div>
-<a href="https://github.com/lorenzodellagiustina" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/lorenzo-della-giustina-3b453a211" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
