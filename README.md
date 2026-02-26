@@ -1,11 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-<div align="center">
 ### I'm Lorenzo, a CS Student 👨‍💻
-  
 
 - 📖 CS master student @ UniUD 
   
@@ -14,8 +7,6 @@
   
 
 - 🦀 Full time rustacean
-
-</div>
   
 
 <br/>  
@@ -26,7 +17,7 @@
 </p>
 
 ### Used in the past-->
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,tensorflow" />
 </p>
 <!--
@@ -47,7 +38,7 @@
 
 <br/>  
 
-<div align="center">
+<div>
 <a href="https://github.com/lorenzodellagiustina" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
