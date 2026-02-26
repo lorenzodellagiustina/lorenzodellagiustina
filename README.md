@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Lorenzo, a CS Student 👨‍💻</div>  
+<div align="center">
+### I'm Lorenzo, a CS Student 👨‍💻
   
 
 - 📖 CS master student @ UniUD 
@@ -13,12 +14,12 @@
   
 
 - 🦀 Full time rustacean
+
+</div>
   
 
 <br/>  
 
-
-### My Skill Set
 <!--### Frequently used
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,git,github,docker,linux" />
