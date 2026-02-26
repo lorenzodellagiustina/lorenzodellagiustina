@@ -6,10 +6,10 @@
 ### <div align="center">I'm Lorenzo, a CS Student 👨‍💻</div>  
   
 
-- 📖 Computer Science master student  
+- 📖 CS master student @ UniUD 
   
 
-- 🏎️ Firmware developer for [UniUd E-Racing Team](https://github.com/uniuderacing)
+<!-- - 🏎️ Firmware developer for [UniUd E-Racing Team](https://github.com/uniuderacing)-->
   
 
 - 🦀 Full time rustacean
@@ -18,13 +18,13 @@
 <br/>  
 
 
-## My Skill Set
-### Frequently used
+### My Skill Set
+<!--### Frequently used
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,git,github,docker,linux" />
 </p>
 
-### Used in the past
+### Used in the past-->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,c,cpp,cmake,tensorflow" />
 </p>
@@ -59,11 +59,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=pcp6o1fbf6dpva0bsxsacahyu&cover_image=false&theme=default&show_offline=true&background_color=121212" /></div>  
 
 <br/>  
 
